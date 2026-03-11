@@ -60,3 +60,25 @@ ul{
 line-height:2;
 
 }
+
+.dark-mode{
+
+background:#121212;
+color:white;
+
+}
+
+
+.dark-mode header{
+
+background:#000;
+
+}
+
+
+.dark-mode .card{
+
+background:#1e1e1e;
+color:white;
+
+}
