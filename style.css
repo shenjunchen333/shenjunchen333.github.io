@@ -247,3 +247,10 @@ transition:0.2s;
 background:#555;
 
 }
+
+.dark-mode .project-card{
+
+background:#1e1e1e;
+color:white;
+
+}
